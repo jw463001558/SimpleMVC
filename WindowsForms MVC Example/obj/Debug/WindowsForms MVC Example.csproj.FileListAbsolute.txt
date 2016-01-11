@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\bin\Debug\WindowsForms MVC Example.exe.config
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\obj\Debug\WindowsForms MVC Example.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\obj\Debug\WindowsForms_MVC_Example.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\obj\Debug\WindowsForms MVC Example.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\bin\Debug\WindowsForms MVC Example.exe
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\bin\Debug\WindowsForms MVC Example.pdb
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\bin\Debug\MVC_Example.dll
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\bin\Debug\MVC_Example.pdb
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\obj\Debug\WindowsForms MVC Example.exe
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\obj\Debug\WindowsForms MVC Example.pdb
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\WindowsForms MVC Example\obj\Debug\WindowsForms_MVC_Example.View.Forms.MainForm.resources

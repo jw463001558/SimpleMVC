@@ -1,0 +1,11 @@
+d:\documents\visual studio 2013\Projects\MVC_Example\MVC_Example\bin\Debug\MVC_Example.dll.config
+d:\documents\visual studio 2013\Projects\MVC_Example\MVC_Example\bin\Debug\MVC_Example.dll
+d:\documents\visual studio 2013\Projects\MVC_Example\MVC_Example\bin\Debug\MVC_Example.pdb
+d:\documents\visual studio 2013\Projects\MVC_Example\MVC_Example\obj\Debug\MVC_Example.dll
+d:\documents\visual studio 2013\Projects\MVC_Example\MVC_Example\obj\Debug\MVC_Example.pdb
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\SimpleMVC\bin\Debug\MVC_Example.dll.config
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\SimpleMVC\bin\Debug\MVC_Example.dll
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\SimpleMVC\bin\Debug\MVC_Example.pdb
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\SimpleMVC\obj\Debug\MVC_Example.dll
+D:\Documents\Visual Studio 2013\Projects\MVC_Example\SimpleMVC\obj\Debug\MVC_Example.pdb
